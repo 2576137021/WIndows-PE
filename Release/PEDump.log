@@ -1,0 +1,25 @@
+﻿  PETools.cpp
+D:\Users\admin\source\repos\PEDump\PETools.cpp(17,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\admin\source\repos\PEDump\PETools.cpp(22,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\admin\source\repos\PEDump\PETools.cpp(34,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\admin\source\repos\PEDump\PETools.cpp(40,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\admin\source\repos\PEDump\PETools.cpp(45,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\admin\source\repos\PEDump\PETools.cpp(58,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\admin\source\repos\PEDump\PETools.cpp(85,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\admin\source\repos\PEDump\PETools.cpp(169,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+D:\Users\admin\source\repos\PEDump\PETools.cpp(242,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“unsigned long”
+D:\Users\admin\source\repos\PEDump\PETools.cpp(336,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\admin\source\repos\PEDump\PETools.cpp(340,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PDWORD”
+D:\Users\admin\source\repos\PEDump\PETools.cpp(441,22): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+D:\Users\admin\source\repos\PEDump\PETools.cpp(495,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“unsigned long”
+D:\Users\admin\source\repos\PEDump\PETools.cpp(541,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\admin\source\repos\PEDump\PETools.cpp(605,10): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+D:\Users\admin\source\repos\PEDump\PETools.cpp(797,2): warning C4102: “MyGetFunAddrExit”: 未引用的标签
+D:\Users\admin\source\repos\PEDump\PETools.cpp(935,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+D:\Users\admin\source\repos\PEDump\PETools.cpp(966,10): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PEDump.vcxproj -> D:\Users\admin\source\repos\PEDump\Release\PEDump.exe
